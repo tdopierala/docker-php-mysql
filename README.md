@@ -37,3 +37,7 @@ grep "compose/releases/tag" | sed -r 's|.*([0-9]+\.[0-9]+\.[0-9]+).*|\1|p' | hea
 - [Install Docker on WSLv2 (Ubuntu)](https://dev.to/bartr/install-docker-on-windows-subsystem-for-linux-v2-ubuntu-5dl7)
 - [Setting Up PHP Development Environment with Docker](https://www.sitepoint.com/docker-php-development-environment/)
 - [Dockerizing a Laravel App](https://dev.to/kamruzzaman/dockerizing-a-laravel-app-nginx-mysql-phpmyadmin-and-php-82-43ne)
+
+- [How To Install Composer](https://www.digitalocean.com/community/tutorials/how-to-install-composer-on-ubuntu-20-04-quickstart)
+- [How to Install the Latest PHP on WSL](https://www.allurcode.com/how-to-install-the-latest-php-version-on-windows-subsystem-for-linux-wsl/)
+- [WSL2 PHP Dev](https://github.com/enflow/wsl2-php-development)
